@@ -49,3 +49,6 @@ var majorityElement = function(nums) {
 
 return majorValue
 };
+
+
+// i'm free friday 10am - 1pm 
